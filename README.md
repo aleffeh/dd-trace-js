@@ -1,5 +1,9 @@
 # dd-trace-js
 
+> Hi I'm Aleffeh, I did this fork in order to support node12 as min version to datadog-ci due to my current project requirements.
+
+> THIS FORK IS NOT GUARANTED TO WORK, DATADOG USES NODE14 AS MIN VERSION. 
+
 [![npm](https://img.shields.io/npm/v/dd-trace.svg?colorB=blue)](https://www.npmjs.com/package/dd-trace)
 [![npm (tag)](https://img.shields.io/npm/v/dd-trace/dev.svg)](https://www.npmjs.com/package/dd-trace/v/dev)
 [![CircleCI](https://circleci.com/gh/DataDog/dd-trace-js.svg?style=shield)](https://circleci.com/gh/DataDog/dd-trace-js)
